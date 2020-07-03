@@ -1,0 +1,47 @@
+const todolistData = [{
+    "id": 1,
+    "summary": "Purchase Notebook",
+    "description": "",
+    "priority": "low",
+    "createdOn": "2020-04-19",
+    "dueDate": "2020-04-21",
+    "status": 2,
+},
+{
+    "id": 2,
+    "summary": "Buy groceries",
+    "description": "",
+    "priority": "medium",
+    "createdOn": "2020-04-19",
+    "dueDate": "2020-04-24",
+    "status": 2,
+},
+{
+    "id": 3,
+    "summary": "Refill ink pen",
+    "description": "",
+    "priority": "none",
+    "createdOn": "2020-04-18",
+    "dueDate": "2020-04-22",
+    "status": 3,
+},
+{
+    "id": 4,
+    "summary": "Prepare presentation",
+    "description": "",
+    "priority": "high",
+    "createdOn": "2020-04-17",
+    "dueDate": "2020-04-24",
+    "status": 2,
+},
+{
+    "id": 5,
+    "summary": "Play badminton",
+    "description": "",
+    "priority": "high",
+    "createdOn": "2020-04-19",
+    "dueDate": "2020-04-21",
+    "status": 2,
+}]
+
+export default todolistData;
